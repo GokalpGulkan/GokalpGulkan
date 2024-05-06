@@ -2,6 +2,7 @@
 - 👀 I’m interested in wep developer
 - 🌱 I’m currently learning HTML,CSS,PYTHON,DJANGO
 - 📫 How to reach me :gokalp.gulkan@hotmail.com
+- my sample works: https://gokalp-django.netlify.app/
 
 
 <!---
